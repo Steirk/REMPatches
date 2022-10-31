@@ -3,3 +3,4 @@
 -Shell properties re-balance
 -Updater Fixes
 -Mouse Sensitivity Fix
+-Crew Buff Changes
