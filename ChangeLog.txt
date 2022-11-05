@@ -1,7 +1,6 @@
--Damage Increase for all guns
--Torsion-bar length effects how bouncy roadwheels are
--New AI builds
--New default vessels
--Map optimizations
--Autocannon Mags increased in durablity
--tank track random glitch fixed
+[Balance Tweaks]
+-Armor degradation on shells lowered
+-HE auto cannon changes
+-Autocannon easier to bounce
+-MGs made cheaper
+-107mm overmatches less plates
