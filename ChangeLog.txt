@@ -1,9 +1,7 @@
--Async Update Sync for Lobbys for rapid balance changes & AI vessels
--All Critical Modules HP and ST reduced to reduce hull integerity and TTK
--Autocannon ammo stores are more explosive
--Ammo rack explosions now use new fragment generation system
--Bug found in new fragment damage causing false fragment penatrations(fixed)
--Testing new hit decal system. (WIP textures & won't work fully in MP)
--Testing A bunch of assets being merged on the new "Junction" map
--Added more trees to Junction
-
+-Damage Increase for all guns
+-Torsion-bar length effects how bouncy roadwheels are
+-New AI builds
+-New default vessels
+-Map optimizations
+-Autocannon Mags increased in durablity
+-tank track random glitch fixed
