@@ -1,6 +1,6 @@
-[Balance Tweaks]
--Armor degradation on shells lowered
--HE auto cannon changes
--Autocannon easier to bounce
--MGs made cheaper
--107mm overmatches less plates
+[Bugfixes]
+-shells speeding up overtime causing "ghost shells"
+-Vessel loading error in matches causing vessels to float in spawn
+-Armor Plate Exploit fix attempt number 3,201th time
+-IS-13 track hitbox shunk a bit so they can be placed closer together
+-Hit decals changed a bit
