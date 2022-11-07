@@ -5,3 +5,4 @@
 -IS-13 track hitbox shunk a bit so they can be placed closer together
 -Hit decals changed a bit
 -Shells minBounceArmor thickness is unique per shell
+-107mm Buffed damage
