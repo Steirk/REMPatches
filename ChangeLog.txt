@@ -1,8 +1,7 @@
+[Balance]
+-Ammoracks are no longer "Critical"
+-Spalling Spawns on "overmatchs"
+-Spalling is now based on "Fuze Sensitivity" instead of "Shell Penatration"
+
 [Bugfixes]
--shells speeding up overtime causing "ghost shells"
--Vessel loading error in matches causing vessels to float in spawn
--Armor Plate Exploit fix attempt number 3,201th time
--IS-13 track hitbox shunk a bit so they can be placed closer together
--Hit decals changed a bit
--Shells minBounceArmor thickness is unique per shell
--107mm Buffed damage
+Collisions being weird
