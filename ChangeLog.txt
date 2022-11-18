@@ -1,8 +1,15 @@
+[Features]
+-Multiple Weather Profiles for maps (Most are work in progess)
+-Testing some big physics and rendering optimizations in Battles
+-Noticable popin and steppy nametags are expected for now
+-Tonnage for tracks is now based on individaul components stats
+-Added "Rolling Friction" to track parts. Reduces soft speed cap
+-New Mainmenu scene (made to be quicker to load)
+
 [Balance]
--Ammoracks are no longer "Critical"
--Spalling Spawns on "overmatches"
+-Wheels got a bit of a buff
+-Tracks got a bit of a nurf
+-Wheel Capacity Damage resets to full when repaired
 
 [Bugfixes]
--Updater failing if game directory path has "spaces"
--Added thread limit for downloader
--Collisions being weird
+Misc Bugfixes
