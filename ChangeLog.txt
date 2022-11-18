@@ -1,14 +1,14 @@
 [Features]
--Multiple Weather Profiles for maps (Most are work in progess)
+-Multiple Weather Profiles for maps (Most are work in progress)
 -Testing some big physics and rendering optimizations in Battles
--Noticable popin and steppy nametags are expected for now
--Tonnage for tracks is now based on individaul components stats
+-Noticeable popin and steppy nametags are expected for now
+-Tonnage for tracks is now based on individual components stats
 -Added "Rolling Friction" to track parts. Reduces soft speed cap
--New Mainmenu scene (made to be quicker to load)
+-New Main menu scene (made to be quicker to load)
 
 [Balance]
 -Wheels got a bit of a buff
--Tracks got a bit of a nurf
+-Tracks got a bit of a nerf
 -Wheel Capacity Damage resets to full when repaired
 
 [Bugfixes]
