@@ -12,4 +12,4 @@
 -Wheel Capacity Damage resets to full when repaired
 
 [Bugfixes]
-Misc Bugfixes
+Fixed Tonnage of Heavy Wheel 2 and Heavy Duel Wheel
