@@ -7,9 +7,11 @@
 -New Main menu scene (made to be quicker to load)
 
 [Balance]
--Wheels got a bit of a buff
--Tracks got a bit of a nerf
--Wheel Capacity Damage resets to full when repaired
+-Increased most cannons post-pen damage (test)
+-Increased amount of post-pen fragments
+-Generally increased spalling dispersion angle
+-Reduced cannon damage to armor
+-Reduced ST of turret-rings and elevation-drives
 
 [Bugfixes]
-Fixed Tonnage of Heavy Wheel 2 and Heavy Duel Wheel
+-Fixed Tonnage of Heavy Wheel 2 and Heavy Duel Wheel
