@@ -6,6 +6,8 @@
 -Added Gen 1 Composite armor
 -Added more AI
 -Added more Stock Vessels
+-Updates to gearbox reving
+-Globaly more rolling friction for all mobitity parts
 
 [Balance]
 -Slowed ammo cookoff time(lose less shells when on fire)
@@ -18,3 +20,4 @@
 -Bug found in new fragment generation, responsible for wild damage inconsistency
 -Fixed ammo count not updating when ammo is burned
 -Decreased "Chuck" size to 25MB for game patches, might help idk
+-Removed rail colliders on Junction for now
