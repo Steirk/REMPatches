@@ -1,17 +1,20 @@
 [Features]
--Multiple Weather Profiles for maps (Most are work in progress)
--Testing some big physics and rendering optimizations in Battles
--Noticeable popin and steppy nametags are expected for now
--Tonnage for tracks is now based on individual components stats
--Added "Rolling Friction" to track parts. Reduces soft speed cap
--New Main menu scene (made to be quicker to load)
+-Friction and Tonnage rethink (Soft tonnage limit is a thing again)
+-Adjustments to damage code (mostly house keeping)
+-Updated some part descriptions
+-Added Gen 1 Reactive armor (sub 1hr dev models)
+-Added Gen 1 Composite armor
+-Added more AI
+-Added more Stock Vessels
 
 [Balance]
--Increased most cannons post-pen damage (test)
--Increased amount of post-pen fragments
--Generally increased spalling dispersion angle
--Reduced cannon damage to armor
--Reduced ST of turret-rings and elevation-drives
+-Slowed ammo cookoff time(lose less shells when on fire)
+-Cannon damage reverted back to pre 0.47 values (see bugfixes)
+-Mobility parts shuffled around abit
+-Wheels made less durable
+-Armor made 1% lighter
 
 [Bugfixes]
--Fixed Tonnage of Heavy Wheel 2 and Heavy Duel Wheel
+-Bug found in new fragment generation, responsible for wild damage inconsistency
+-Fixed ammo count not updating when ammo is burned
+-Decreased "Chuck" size to 25MB for game patches, might help idk
