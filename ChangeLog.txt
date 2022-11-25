@@ -10,6 +10,7 @@
 -Globaly more rolling friction for all mobitity parts
 
 [Balance]
+-Changed Gear Ratio of all Wheels
 -Slowed ammo cookoff time(lose less shells when on fire)
 -Cannon damage reverted back to pre 0.47 values (see bugfixes)
 -Mobility parts shuffled around abit
